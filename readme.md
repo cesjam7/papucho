@@ -6,11 +6,11 @@ La primera fila (Fila 1) es donde defines el nombre de las columnas. En el ejemp
 
 Sería algo asi:
 
-| columna1 | columna2 | columna3 |
-| ---------- | ---------- |
-| César Jefferson Aquino Maximiliano | Software Developer y Bombero Voluntario | 24 años |
-| Claudia Rosmery Cáceda Vasquez | Secretaria Ejecutiva y Supervisora | 20 años |
-| Cesar Valentino Aquino Cáceda | Bebé hermoso | 23 semanas |
+| columna1                          | columna2                                | columna3  |
+| ----------                        | ----------                              |---------- |
+| César Jefferson Aquino Maximiliano| Software Developer y Bombero Voluntario | 24 años   |
+| Claudia Rosmery Cáceda Vasquez    | Secretaria Ejecutiva y Supervisora      | 20 años   |
+| Cesar Valentino Aquino Cáceda     | Bebé hermoso                            | 23 semanas|
 
 En el ejemplo tenemos un formulario en el index.php y este formulario envia un post a una página llamada, en este caso, papucho, ahí recibe los datos e inserta los productos.
 
